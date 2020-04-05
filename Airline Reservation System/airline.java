@@ -1,4 +1,4 @@
-/* StudentID: 1810111
+/*
  * Name: Yash Djson Dookun
  * Task: Airline reservations system- The program requests the user to type 1 for 'smoking
 compartment' or 2 for 'non smoking compartment'.
